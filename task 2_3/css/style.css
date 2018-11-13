@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    margin: 0 auto;
+    font-family: Tahoma;
+}
+header {
+    width: 100%;
+    height: 80px;
+    background: #2323de;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+.sign {
+    font-size: 24px;
+    background: green;
+    border: 1px solid darkgreen;
+    color: white;
+    height: 30px;
+}
+.content {
+    width: 70%;
+    height: 300px;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+p {
+    font-size: 28px;
+    color: darkblue;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.input {
+    padding-top: 30px;
+    padding-left: 20%;
+}
+.phone {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    border: 1px solid #2323de;
+    width: 200px;
+    height: 20px;
+    border-radius: 2px;
+
+}
+.password {
+    margin-left: 70px;
+    margin-bottom: 10px;
+    border: 1px solid #2323de;
+    width: 200px;
+    height: 20px;
+    border-radius: 2px;
+
+}
+.chek {
+    padding-left: 35%;
+}
+.log {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #2323de;
+    color: white;
+    border: 1px solid darkblue;
+    width: 80px;
+    height: 30px;
+    font-size: large;
+}
+a {
+    text-decoration: none;
+    color: #2323de;
+}
+
